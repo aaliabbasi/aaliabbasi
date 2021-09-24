@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aaliabbasi
-- 👀 I’m interested in Machine Learning, Deep Learning and Artificial Intelligence
-- 🌱 I’m currently learning Machine Learning
-- 💞️ I’m looking to collaborate in Projects on Machine Learning
+- 👀 I’m interested in Machine Learning, Deep Learning and Artificial Intelligence.
+- 🌱 I’m currently learning Machine Learning.
+- 💞️ I’m looking to collaborate in Projects on Machine Learning.
 - 📫 How to reach me aaliabbasi87848@gmail.com
 
 <!---
