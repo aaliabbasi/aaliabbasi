@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @aaliabbasi
-- 👀 I’m interested in Machine Learning, Deep Learning and Artificial Intelligence.
-- 🌱 I’m currently learning Machine Learning.
-- 💞️ I’m looking to collaborate in Projects on Machine Learning.
-- 📫 How to reach me aaliabbasi87848@gmail.com
+- 👀 I’m interested in Web Development and Machine Learning.
+- 🌱 I’m currently learning Web Development.
+- 💞️ I’m looking to collaborate in Projects on Web Development and Machine Learning.
+- 📫 How to reach me toaali.01@gmail.com
 
 <!---
 aaliabbasi/aaliabbasi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
